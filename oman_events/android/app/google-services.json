@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311597886455",
+    "project_id": "omanievents-3d3c2",
+    "storage_bucket": "omanievents-3d3c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311597886455:android:6224fffb7ce00133badcf2",
+        "android_client_info": {
+          "package_name": "com.example.oman_events"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311597886455-7b3l3qmv1pi3tk15scrsiki5eiukk8jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt0LOMhpZOnDd5V_xaaXP8Zm3pjhXOaDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311597886455-7b3l3qmv1pi3tk15scrsiki5eiukk8jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
