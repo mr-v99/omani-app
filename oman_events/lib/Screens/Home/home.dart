@@ -68,7 +68,6 @@ class _HomePageState extends State<HomePage> {
   late GoogleMapController googleMapController;
   Set<Marker> markers = {};
   final Mode _mode = Mode.overlay;
-  static const kGoogleApiKey = 'AIzaSyDOxGPW6GHcLeUt9hiNjnCU886fO8YHnVU';
 
   int _currentPage = 0;
 
