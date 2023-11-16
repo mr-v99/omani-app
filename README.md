@@ -1,4 +1,4 @@
-omani-app
+Application name: omani-app
 An omani app for exploring and publishing the local events
 
 ---> Reqiured Programs and plugins:
