@@ -1,5 +1,8 @@
-omani-app
-An omani app for exploring and publishing the local events
+
+
+app demo: https://github.com/user-attachments/assets/c4d3d1d4-975c-4822-9c7e-1805ce49a66d
+
+An app for exploring and publishing the local events
 
 ---> Reqiured Programs and plugins:
 1) Install Android Studio
